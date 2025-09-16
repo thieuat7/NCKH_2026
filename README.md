@@ -1,4 +1,3 @@
-Dưới đây là phiên bản **README.md** được viết lại gọn gàng, chuẩn markdown, dễ đọc và đầy đủ hướng dẫn:
 
 ````markdown
 # Fraud Detection LSTM API
