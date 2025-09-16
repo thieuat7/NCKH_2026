@@ -1,0 +1,2 @@
+﻿transaction_id,user_id,receiver_id,transaction_amount,timestamp,transaction_type,transaction_description,device_id,account_balance_before_txn,avg_sent_amount_prev,avg_received_amount_prev,deviation_from_avg_sent_amount,deviation_from_avg_received_amount,transaction_count_last_7d,has_sent_before,has_received_before
+TXN100000001,294828222,524829262,210000.0,2025-09-16 12:55:10,send,Chuyen tien,DEV-131-01234,4500000.0,0.0,0.0,210000.0,0.0,0,0,0
